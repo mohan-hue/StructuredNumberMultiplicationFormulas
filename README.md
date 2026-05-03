@@ -46,9 +46,8 @@ If the numbers are completely random large numbers, these formulas cannot really
 - [5. Binary Versions](#5-binary-versions)
 - [6. Combined Prefix + Suffix Formula](#6-combined-prefix--suffix-formula)
 - [7. Use Cases: When Should These Formulas Be Used?](#7-use-cases-when-should-these-formulas-be-used)
-- [8. Relationship with NTT / FFT](#8-relationship-with-ntt--fft)
-- [9. Common Mistakes](#9-common-mistakes)
-- [10. Summary](#10-summary)
+- [8. Common Mistakes](#9-common-mistakes)
+- [9. Summary](#10-summary)
 
 ---
 
